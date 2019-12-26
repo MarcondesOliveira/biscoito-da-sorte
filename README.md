@@ -1,1 +1,1 @@
-Aplicação React que gera palavras aleatórias simulando um 'biscoito da sorte'.
+Aplicação React que gera frases aleatórias simulando um 'biscoito da sorte'.
